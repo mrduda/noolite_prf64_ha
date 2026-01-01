@@ -1,4 +1,4 @@
-﻿Alternative way to bind Noolite devices controller to Home Assistant with old PRF-64 and without MRTF
+﻿Alternative way to bind Noolite devices to Home Assistant with old PRF-64 and without MRTF
 
 (RU)
 Есть способ добавить кнопки/реле Noolite в Home Assistant, если у вас "старый" блок управления PRF-64, нету USB-адаптера MRTF, но хочется подвязать свои девайсы, то:
